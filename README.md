@@ -1,4 +1,4 @@
-Apple e Apple
+Tetris
 ===
 This game is developed not for any game Contest but for fun. It is played by all of us and we find it very attractive, so i decided to build my own Tetris. Hope you all enjoy it :) 
 
