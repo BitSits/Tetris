@@ -5,7 +5,7 @@ This game is developed not for any game Contest but for fun. It is played by all
 
 Download Executable
 ---
-[Tetris.zip (3.53 Mb)](https://dl.dropboxusercontent.com/u/85066508/Blog/BitSits%20Games/Tetris.zip)
+[Tetris.zip (3.53 Mb)](https://github.com/BitSits/Tetris-Assets/raw/master/Tetris.zip) ([setup](https://github.com/BitSits/Tetris-Assets/raw/master/Tetris%20setup.zip))
 
 
 Instructions
